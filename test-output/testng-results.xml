@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello Python]]>
+    </line>
+    <line>
+      <![CDATA[Hello java]]>
+    </line>
+    <line>
+      <![CDATA[Hello Selenium]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-09-28T18:03:45 IST" name="Suite" finished-at="2021-09-28T18:03:45 IST" duration-ms="248">
+    <groups>
+    </groups>
+    <test started-at="2021-09-28T18:03:45 IST" name="Test" finished-at="2021-09-28T18:03:45 IST" duration-ms="248">
+      <class name="demoproject.Test0">
+        <test-method signature="tc1()[pri:0, instance:demoproject.Test0@50caa560]" started-at="2021-09-28T18:03:45 IST" name="tc1" finished-at="2021-09-28T18:03:45 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- demoproject.Test0 -->
+      <class name="demoproject.Test1">
+        <test-method signature="tc1()[pri:0, instance:demoproject.Test1@2a266d09]" started-at="2021-09-28T18:03:45 IST" name="tc1" finished-at="2021-09-28T18:03:45 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello Selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- demoproject.Test1 -->
+      <class name="demoproject.Test2">
+        <test-method signature="tc1()[pri:0, instance:demoproject.Test2@568ff82]" started-at="2021-09-28T18:03:45 IST" name="tc1" finished-at="2021-09-28T18:03:45 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello Python]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- demoproject.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
